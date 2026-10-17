@@ -1,0 +1,10 @@
+{
+  "profile": "GL64-E2",
+  "prime": "18446744069414584321",
+  "polynomial": "u^2-7",
+  "coefficient_order": ["a0", "a1"],
+  "encoding": "canonical unsigned 64-bit coefficients; constant coefficient first",
+  "binomial_constant": 7,
+  "euler_result": "18446744069414584320",
+  "known_answer": {"a": [0, 1], "b": [0, 1], "product": [7, 0]}
+}

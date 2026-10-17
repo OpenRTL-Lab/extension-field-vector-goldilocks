@@ -1,0 +1,5 @@
+ExtensionFieldVector.sv
+ExtensionGoldilocksMul.sv
+InverseSlots.sv
+Queue64_ResultRecord.sv
+ram_64x179.sv

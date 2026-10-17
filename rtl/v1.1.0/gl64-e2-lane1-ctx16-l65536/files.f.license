@@ -1,0 +1,15 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: Goldilocks Extension-Field Vector Hardware Accelerator
+Chisel hardware for vector arithmetic over the quadratic extension defined by u squared = 7.
+Repository: https://github.com/OpenRTL-Lab/extension-field-vector-goldilocks
+File: rtl/v1.1.0/gl64-e2-lane1-ctx16-l65536/files.f
+
+SPDX-FileCopyrightText: 2026 Goldilocks extension-field vector contributors
+Copyright applies to original project contributions only.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End
